@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Gina Do, a first year at the University of California, Irvine studying CS.
 
 <!--
 **fluffylenny/fluffylenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
